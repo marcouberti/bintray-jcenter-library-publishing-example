@@ -1,5 +1,5 @@
 group = 'com.marcouberti.android.lib'
-version = '0.2'
+version = '0.3'
 
 apply plugin: 'com.android.library'
 apply plugin: 'com.github.dcendents.android-maven'
